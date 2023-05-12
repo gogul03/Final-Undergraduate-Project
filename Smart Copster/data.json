@@ -1,0 +1,89 @@
+{"intents": [
+        {"tag": "Welcome note",
+         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+         "responses": ["Hello, this is Smart Copster web application, thanks for asking"],
+         "context": [""]
+        },
+        {"tag": "About website",
+         "patterns": ["What can you do for me", "What task do you perform?", "What How can you help me?", "What can you do for me", "What can you do for me"],
+         "responses": ["Smart Copster will help you to know the details regarding the penalties", "Smart Copster will help you to know the details regarding the penalties", "Smart Copster will help you to know the details regarding the penalties."],
+         "context": [""]
+        },
+        {"tag": "Questions",
+         "patterns": ["Who gets benifited","What are the advantages of this application"],
+         "responses": ["Smart Copster will provide all the features and functions for both the police and public users to manage their work easily", "Smart Copster will provide all the features and functions for both the police and public users to manage their work easily"],
+         "context": [""]
+        },
+        {"tag": "uniques features",
+         "patterns": ["Why do we use this website?","If you prefer good service."],
+         "responses": ["Our web application is user-friendly. This system will stand out from other apps since it has unique features such as a using Artificial intelligence. This website will surely benefit police personnel and their traffic offenders. Because this system is being created to benefit them."],
+         "context": [""]
+        },
+        {"tag": "drunk and drive",
+         "patterns": ["For drunk and drive how much you fine"],
+         "responses": ["Alcohol has a way of fueling anger in some people, so you don’t want to be confrontational when you’re trying to stop them from drunk driving. Simply ask for their keys, speak to the person quietly, and walk away if possible.You will be fined for 1000/="],
+         "context": [""]
+        },
+        {"tag": "Speed limitation",
+         "patterns": ["For Speed limitation how much you fine"],
+         "responses": ["If you were caught speeding excessively, you wouldn't be offered the choice of a speed awareness course. You'll have to pay a fine, take three points on your licence or could even receive a court summons if you're speeding way beyond the speed limit. Speeding is a serious offence, You will be fined 2500/="],
+         "context": [""]
+        },
+        {"tag": "Dangerous Driving",
+         "patterns": ["For Dangerous Driving how much you fine"],
+         "responses": ["Careless driving falls below the minimum standard expected of a careful driver and includes driving without reasonable consideration for other road users. Dangerous driving includes behaviour that could potentially endanger yourself or other drivers. If you drive in a careless or dangerous way you risk prosecution., You will be fined 2500/="],
+         "context": [""]
+        },
+        {"tag": "License",
+         "patterns": ["License Violation how much you fine"],
+         "responses": ["It's very important to have your driving license while travelling specially in sri lanka, If you get caught you will be fined 2500/="],
+         "context": [""]
+        },
+        {"tag": "No seatbelt",
+         "patterns": ["Constantly caught for No seatbelt how much you fine"],
+         "responses": ["Being buckled up during a crash helps keep you safe and secure inside your vehicle and being completely ejected from a vehicle is almost always deadly. If you don't wear your seat belt, you could be thrown into a rapidly opening frontal air bag. Such force could injure or even kill you, you will be fined 2500/="],
+         "context": [""]
+        },
+        {"tag": "Paying penalty",
+         "patterns": ["What happens if I do not pay for my ticket?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+         "responses": ["When you receive a petty traffic ticket, you often have the option of pleading guilty and paying for your ticket. Most of the time, we do not recommend this. Instead, we suggest requesting a court date and having your day in court.", "When you receive a petty traffic ticket, you often have the option of pleading guilty and paying for your ticket. Most of the time, we do not recommend this. Instead, we suggest requesting a court date and having your day in court."],
+         "context": [""]
+        },
+        {"tag": "penaltie payment condition",
+         "patterns": ["If I have to pay the court fines, will I still have to pay the price of the ticket as well?", "Open adverse drugs module", "Give me a list of drugs causing adverse behavior", "List all drugs suitable for patient with adverse reaction", "Which drugs dont have adverse reaction?" ],
+         "responses": ["One option is to plead guilty and pay the amount due on the ticket. If you choose to attend court instead, you forego the opportunity to pay that amount. In court, your case can be dismissed or you can be found not guilty. If this happens, you will not owe any money to the court. If you receive supervision or are guilty, you will likely owe court costs and possibly a fine. Those amounts will not coincide with the original ticket amount."],
+         "context": [""]
+        },
+        {"tag": "blood_pressure",
+         "patterns": [" Do I have to go to court?"],
+         "responses": ["If you are charged with a criminal offense, it is required that you appear in court. However, due to the COVID-19 pandemic, courts are often allowing the defendant to be excused from attending court. Talk to your lawyer about this possibility."],
+         "context": [""]
+        },
+        {"tag": "Offences",
+         "patterns": ["Will my driver’s license be suspended?"],
+         "responses": ["Certain traffic offenses have mandatory suspensions attached to them. Also, the Secretary of State of Illinois may suspend your license if you receive 3 convictions in a twelve-month period. A driver under 21 years of age may be suspended if they receive 2 convictions within a 24 month period. Driver Defense Team lawyers work hard to help you retain your driving privileges."],
+         "context": [""]
+        },
+        {"tag": "website",
+         "patterns": ["What about this website? ", "Any information about this site? "],
+         "responses": ["A traffic fine management web application featuring chatbot"],
+         "context": [""]
+        },
+        {"tag": "Who has the access",
+         "patterns": ["Who can access this application? ","Who needs this app?", "Can anyone get help from this site? "],
+         "responses": ["The website is really helpful for traffic offenders and Police personnel "],
+         "context": [""]
+        },
+        {"tag": "Tracking",
+         "patterns": ["What about tracking? ", "tracking"],
+         "responses": ["Here Smart Copster track the offence occured location."],
+         "context": [""]
+        },
+
+        {"tag": "Features",
+         "patterns": ["What are the unique features are on your website?.","What Services you preferred?","Features "],
+         "responses": ["Chatbot"],
+         "context": [""]
+        }
+   ]
+}
